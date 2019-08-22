@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>A linguagem HTML</title>
+		<meta charset="utf-8">
+	</head>
+
+	<body>
+  <!-- Tag para descer --!>
+		<a href="#Topo" name="Descer">Desça</a>
+    
+    
+		<h1 style="color: #003399"> Quem criou o HTML</h1> 
+		<a name=""></a>
+			
+	
+		<p style="color: #ff0000">Tim Berners-Lee é nome do homem que criou o HTML. Ele criou o HTML para a comunicação e disseminação de pesquisas entre ele e o seu grupo <br>
+		de colegas. O HTML ficou bastante conhecido quando começou a ser utilizado parar formar a rede pública daquela época, o que se tornaria mais tarde a <br>
+		internet que conhecemos hoje </p>
+
+		<h1 style="color: #003399">A evolução da internet nos últimos anos</h2>
+
+		<table border="" style="width: 70%">
+			<tr>
+				<th style="background-color: #003399"> Continente</th>
+				<th style="background-color: #003399">2016</th>
+				<th style="background-color: #003399">2017</th>
+				<th style="background-color: #003399">2018</th>
+			</tr>
+			<tr>
+				<td>América</td>
+				<td>100</td>
+				<td>200</td>
+				<td>300</td>
+			</tr>
+			<tr>
+				<td>Europa</td>
+				<td>50</td>
+				<td>80</td>
+				<td>150</td>
+			</tr>
+			<tr>
+				<td>Ásia</td>
+				<td>80</td>
+				<td>100</td>
+				<td>200</td>
+			</tr>
+
+		</table>
+
+		<h1 style="color: #003399"> Principais meios de utilização da internet</h3>
+
+			<ul>
+				<li>Celular</li>
+				<li>Browser</li>
+				<li>TVs</li>
+			</ul>
+
+		<h1 style="color: #003399">Ordem de acesso para uma Informação</h4>
+
+			<ol>
+				<li>Abra o navegador</li>
+				<li>Acesse um mecanismo de busca</li>
+				<li>Ao carregar, se for o caso clique no link de um interesse</li>
+			</ol>
+
+		<h1 style="color: #003399">Acesso a página do Professor Izequiel</h5>
+		<a href="http://ipn.eti.br/site/" target="_blank" name="pagina">Clique para acessar o link</a>
+
+  
+    <!--Espaçamento para testar as Ancoras --!>
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<!-- Tag para Subir --!>
+    <a href="#Descer" name="Topo"> Suba </a>
+	</body>
+
+</html>
