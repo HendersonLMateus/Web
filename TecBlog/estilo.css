@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#cabeçalho{
+	background:#FFBF00;
+	height: 130px;
+	padding: 10px;
+	text-align: center;
+}
+#principal{ 
+	background: white;
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+#postagens{ 
+	width: 660px;
+	float: left;
+}
+#lateral{
+	
+	width: 240px;
+	height: 500px;
+	float: right;
+}
+#rodape{
+	text-align: center;
+	padding: 15px;
+	clear: both;
+	background: #CCC;
+	width: 890px;
+}
+.post{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.titulolateral{
+	margin-top: 25px;
+	background: gray;
+	padding: 5px;
+}
+.conteudolateral{
+	font-size: 14px;
+	width: 240px;
+	padding: 5px;
+}
+.linklateral{
+	color:#FFBF00;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 20px;
+	background: none;
+}
+.linkscabeçalho{
+	color: white;
+	text-decoration: none;
+	padding: 5px;
+}
+.outroslinks{
+	color:#FFBF00;
+	text-decoration: none;
+	padding: 5px;
+}
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+h1{
+	display: inline;
+}
+h2{
+	color: #FFBF00 ;
+}
+img{
+	margin-top: 25px;
+}
+p.posta{
+	width: 640px;
+}
+a.texto:hover,a.texto{
+	background: none;
+	color:#FFBF00;
+	text-decoration: none;
+}
+a.lateral:hover,a.lateral{
+	color:#FFBF00;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 20px;
+	background: none;
+}
+a:hover{
+	background: white;
+	color: #FFBF00 ;
+}
